@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anıl Eren</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Resilient Distributed Systems, Security Concepts and Deep Learning**
+- 🔭 I’m currently working on **Distributed Systems, Security Concepts and Deep Learning**
 
 - 📫 How to reach me **anilerengocer@gmail.com**
 
