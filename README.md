@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anıl Eren</h1>
+<h1 align="center">Hi, I'm Anıl</h1>
 
-- 🔭 I’m working on Distributed Systems, Parallel Computing and Databases. 
-
-- 📫 You can reach me via **anilerengocer@gmail.com**
+- Doing stuff in Databases, Distributed Systems and Parallel Computing  
+- Reach me at **anilerengocer@gmail.com**
